@@ -1,1 +1,1 @@
-print ('THANKS')
+print ('THANK you')
